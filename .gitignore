@@ -21,3 +21,13 @@ Thumbs.db
 
 # Test cache
 .pytest_cache/
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+.next/
+.env.local
